@@ -2,8 +2,8 @@ readme = r"""# 📋 Sistema de Gestión de Tareas 1.0.0
 
 Este documento describe la API del *Sistema de Gestión de Tareas*.
 
-## 📄 Especificación OpenAPI 3.1
-La especificación completa está disponible en **/openapi.json**.
+## Primera API con FASTAPI
+
 
 ---
 
